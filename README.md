@@ -1,1 +1,5 @@
 # TestRepo
+If(IsNoob)
+{
+Exit
+}
