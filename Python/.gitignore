@@ -1,0 +1,10 @@
+## Ignore Visual Studio temporary files, build results, and
+
+# User-specific files
+*/__pycache__/*
+Pipfile
+Pipfile.lock
+
+# Visual Studio cache/options directory
+.vs/
+.vscode/
