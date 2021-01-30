@@ -9,3 +9,6 @@ https://flask.palletsprojects.com/en/1.1.x/quickstart/
 
 ### framework to style webpages
 https://getbootstrap.com/
+
+### Documentaion for Jinja (labrary to make a dynamic code for the HTML)
+https://jinja.palletsprojects.com/en/2.11.x/

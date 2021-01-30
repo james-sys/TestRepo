@@ -6,7 +6,8 @@ app = Flask(__name__)
 # first view
 @app.route("/")
 def index():
-    return render_template("index.html")
+    items = ["menu1", "menu2", "menu3", "menu4", "menu5"]
+    return render_template("index.html", items=items)
 
 
 if __name__ == "__main__":
